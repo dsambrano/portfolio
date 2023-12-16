@@ -8,7 +8,7 @@ import plotnine as gg
 ```
 
 Here is a simple example to help you become familar with Bayes and the Bayesian formula.
-The foundational insight of Bayes is that you should integrate your evidence (or data) with you prior (expectation, typically based on passed experiences or some other evidence).
+The foundational insight of Bayes is that you should integrate your evidence (or data) with your prior (expectation, typically based on past experiences or some other evidence).
 It turns out that if you do so, **AND** your prior was accurate, your new beliefs will be the most accurate you can be (e.g., it is the optimal solution to dealing with uncertainty).
 While the math for Bayes formula is not super difficult, the math to prove that it the optimal solution is advanced, so we will skip that here.
 
