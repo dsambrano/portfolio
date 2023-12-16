@@ -29,6 +29,22 @@ A behavior modification A/B test designed to evaluated consumer decisions based 
 
 <!-- ![](bayes/output_3_1.png) This should be that manipulation graph from ambig images and just change titles etc and highlight  -->
 
+<!-- ## [Forecasting Risky Decision Making](bayes/bayes.md) -->
+## Forecasting Risky Decision Making
+
+For this project, I created a custom machine learning model to forecast risky decision making for lotteries.
+This analysese for these results were presented in front a large mixed audience and published [here]().
+The first plot shows that custom ML model used to forecast consumer decisions.
+Specifically, we highlight how we precisely modeled the specific features use to make finacial decisions on a per user basis!
+
+<!-- ![](bayes/output_3_1.png) This should be the graph of sigmoids (Ideally one where there are say 5 different sigmoids from the peeps) -->
+
+### Pupil Dilation Predicting Consumer Decisions
+
+Below is another plot where we highlight the relationship between the bodily characteristics and consumer choices.
+Specifically, we evaluated pupil size (as well as skin sweat, blood pressure, hormone levels and heart rate; not shown)
+
+<!-- ![](bayes/output_3_1.png) Should be able to graph one of the ones looking at pupil dilation and just show it here -->
 
 ## Interactive Data and Analysis Demonstrations
 
