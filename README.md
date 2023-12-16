@@ -10,6 +10,7 @@ Dev Plan:
 
 - Here is how I would change this: The titles (sexier) specifically overarching saying these are how I have specifically impacted several different feilds to with my research expertise.
 Each title becomes like Consumer Modifications, Forcasting consumer Decision Making etc.
+- Fix side by side images on Bayes see official [page](https://github.com/dsambrano/portfolio?tab=readme-ov-file#deshawn-sambranos-portfolio)
 
 ## [Bayesian Statistics](bayes/bayes.md)
 
@@ -48,11 +49,11 @@ Specifically, we highlight how we precisely modeled the specific features use to
 Below is another plot where we highlight the relationship between the bodily characteristics and consumer choices.
 Specifically, we evaluated pupil size (as well as skin sweat, blood pressure, hormone levels and heart rate; not shown)
 
+<!-- ![](bayes/output_3_1.png) Should be able to graph one of the ones looking at pupil dilation and just show it here -->
+
 ⭐**Executive Summary**📈: Collecting small, noninvasive physiological measures for consumers near the time of viewing ads can yeild strong forecasts for future consumers choices.
 
 <!-- Small but precisely curated emotional inductions can be more impactful to consumer decisions than large scale manipulations. Changing consumer behavior is challenging and costly. Here I show how precisely controlling what is show to the consumer can yeild larger changes in consumer behavior with lower costs! -->
-
-<!-- ![](bayes/output_3_1.png) Should be able to graph one of the ones looking at pupil dilation and just show it here -->
 
 ## Interactive Data and Analysis Demonstrations
 
