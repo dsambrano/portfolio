@@ -25,15 +25,14 @@ In contrast, the plot on the right has a good prior making it more robust to ran
 ## [Emotion Influences Decision Making](bayes/bayes.md)
 <!-- ![](bayes/output_3_1.png) -->
 
-## [Forecasting Risky Decision Making](bayes/bayes.md)
+A behavior modification A/B test designed to evaluated consumer decisions based on their emotional state.
 
-For this project, I created a custom machine learning model to forecast risky decision making for lotteries. 
-<!-- ![](bayes/output_3_1.png) -->
+<!-- ![](bayes/output_3_1.png) This should be that manipulation graph from ambig images and just change titles etc and highlight  -->
 
-## [Interactive Data and Analysis Demonstrations](bayes/bayes.md)
-<!-- ![](bayes/output_3_1.png) -->
 
-Below are a couple on live data visualization and analysis demonstrations. You are given some simulated data and as you adjust the different parameters of the dataset you can see how it changes that data visually as well as from a statistical standpoint. These demonstrations were used to teach 101 students statistics at Harvard University.
+## Interactive Data and Analysis Demonstrations
+
+Below are a couple on live data visualization and analysis demonstrations. You are given some simulated data and as you adjust the different parameters of the dataset you can see how it changes that data visually as well as from a statistical standpoint. These demonstrations were used to provide some statiscal intuitions for Intro Statiscs Students for a Course I taught at Harvard University.
 
 - [T-TEST](https://dsambrano.shinyapps.io/T-Test/)
 - [ANOVA](https://dsambrano.shinyapps.io/ANOVA/)
