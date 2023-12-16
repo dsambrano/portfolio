@@ -29,6 +29,10 @@ A behavior modification A/B test designed to evaluated consumer decisions based 
 
 <!-- ![](bayes/output_3_1.png) This should be that manipulation graph from ambig images and just change titles etc and highlight  -->
 
+⭐**Executive Summary**📈: Changing consumer behavior is challenging and costly. 
+Here I show how precisely controlling what is show to the consumer can yeild larger changes in consumer behavior with lower costs!
+Small but precisely curated emotional inductions can be more impactful to consumer decisions than large scale manipulations.
+
 <!-- ## [Forecasting Risky Decision Making](bayes/bayes.md) -->
 ## Forecasting Risky Decision Making
 
@@ -43,6 +47,10 @@ Specifically, we highlight how we precisely modeled the specific features use to
 
 Below is another plot where we highlight the relationship between the bodily characteristics and consumer choices.
 Specifically, we evaluated pupil size (as well as skin sweat, blood pressure, hormone levels and heart rate; not shown)
+
+⭐**Executive Summary**📈: Collecting small, noninvasive physiological measures for consumers near the time of viewing ads can yeild strong forecasts for future consumers choices.
+
+<!-- Small but precisely curated emotional inductions can be more impactful to consumer decisions than large scale manipulations. Changing consumer behavior is challenging and costly. Here I show how precisely controlling what is show to the consumer can yeild larger changes in consumer behavior with lower costs! -->
 
 <!-- ![](bayes/output_3_1.png) Should be able to graph one of the ones looking at pupil dilation and just show it here -->
 
