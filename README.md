@@ -2,6 +2,9 @@
 
 Here are a few different project that demonstrate my versatility as a Data Scientist, Applied Scientist, and Machine Learning Engineer.
 
+where I studied Economics, Psychology, and Neuroscience.
+My research focused on consumer choices and A/B testing to modify their decisions.
+
 <!-- ${toc} -->
 
 <!-- __TOC__ -->
