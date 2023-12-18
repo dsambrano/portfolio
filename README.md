@@ -46,6 +46,7 @@ The first plot shows that custom ML model used to forecast consumer decisions.
 Specifically, we highlight how we precisely modeled the specific features use to make finacial decisions on a per user basis!
 
 <!-- ![](bayes/output_3_1.png) This should be the graph of sigmoids (Ideally one where there are say 5 different sigmoids from the peeps) -->
+<!-- For now including the psychometrics, but in reality I should probably grab anything that I have made and select later -->
 
 ### Pupil Dilation Predicting Consumer Decisions
 
@@ -53,6 +54,9 @@ Below is another plot where we highlight the relationship between the bodily cha
 Specifically, we evaluated pupil size (as well as skin sweat, blood pressure, hormone levels and heart rate; not shown)
 
 <!-- ![](bayes/output_3_1.png) Should be able to graph one of the ones looking at pupil dilation and just show it here -->
+
+<!-- I can add my pupil one here but in the mean time, adding one from Hao's paper: https://pubmed.ncbi.nlm.nih.gov/37382476/ -->
+<!-- Also I want to redo the cortisol measurements one to highlight the profile instead of the delta -->
 
 ⭐**Executive Summary**📈: Collecting small, noninvasive physiological measures for consumers near the time of viewing ads can yeild strong forecasts for future consumers choices.
 
