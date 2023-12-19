@@ -11,8 +11,8 @@ Here are a few different project that demonstrate my versatility as a Data Scien
 
 Dev Plan:
 
-- Here is how I would change this: The titles (sexier) specifically overarching saying these are how I have specifically impacted several different feilds to with my research expertise.
-Each title becomes like Consumer Modifications, Forcasting consumer Decision Making etc.
+- Here is how I would change this: The titles (sexier) specifically overarching saying these are how I have specifically impacted several different fields to with my research expertise.
+Each title becomes like Consumer Modifications, Forecasting consumer Decision Making etc.
 - Fix side by side images on Bayes see official [page](https://github.com/dsambrano/portfolio?tab=readme-ov-file#deshawn-sambranos-portfolio)
 
 ## [Bayesian Statistics](bayes/bayes.md)
@@ -34,16 +34,17 @@ A behavior modification A/B test designed to evaluated consumer decisions based 
 <!-- ![](bayes/output_3_1.png) This should be that manipulation graph from ambig images and just change titles etc and highlight  -->
 
 ⭐**Executive Summary**📈: Changing consumer behavior is challenging and costly. 
-Here I show how precisely controlling what is show to the consumer can yeild larger changes in consumer behavior with lower costs!
+Here, I show how precisely controlling what is show to the consumer can yeild larger changes in consumer behavior with lower costs!
 Small but precisely curated emotional inductions can be more impactful to consumer decisions than large scale manipulations.
 
 <!-- ## [Forecasting Risky Decision Making](bayes/bayes.md) -->
 ## Forecasting Risky Decision Making
 
 For this project, I created a custom machine learning model to forecast risky decision making for lotteries.
-This analysese for these results were presented in front a large mixed audience and published [here]().
+This analyses for these results were presented in front a large mixed audience and published [here]().
 The first plot shows that custom ML model used to forecast consumer decisions.
-Specifically, we highlight how we precisely modeled the specific features use to make finacial decisions on a per user basis!
+Specifically, we highlight how we precisely modeled the specific features use to make financial decisions on a per user basis!
+
 
 <!-- ![](bayes/output_3_1.png) This should be the graph of sigmoids (Ideally one where there are say 5 different sigmoids from the peeps) -->
 <!-- For now including the psychometrics, but in reality I should probably grab anything that I have made and select later -->
