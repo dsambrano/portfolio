@@ -15,16 +15,6 @@ Dev Plan:
 Each title becomes like Consumer Modifications, Forecasting consumer Decision Making etc.
 - Fix side by side images on Bayes see official [page](https://github.com/dsambrano/portfolio?tab=readme-ov-file#deshawn-sambranos-portfolio)
 
-## [Bayesian Statistics](bayes/bayes.md)
-
-This [project](bayes/bayes.md) demonstrates my ability to use and easily explain Bayesian Statistics.
-Specifically, these plots show how the posterior (the final prediction of the model) changes as you adjust the prior (the background knowledge of the model).
-
-As show with the image on the left, if you don't give your model the proper prior (background knowledge of what is likely to happen) it can be overconfident which can lead to inaccurate predictions and lost of revenue.
-In contrast, the plot on the right has a good prior making it more robust to random fluctuations and produces much more stable results yielding more accurate forecasts.
-
-<img src="bayes/output_3_1.png" alt="drawing" style="width: 40vw;"/>
-<img src="bayes/output_6_1.png" alt="drawing" style="width: 40vw;"/>
 
 ## [Emotion Influences Decision Making](bayes/bayes.md)
 <!-- ![](bayes/output_3_1.png) -->
@@ -69,6 +59,17 @@ Specifically, we evaluated pupil size (as well as skin sweat, blood pressure, ho
 ⭐**Executive Summary**📈: Collecting small, noninvasive physiological measures for consumers near the time of viewing ads can yeild strong forecasts for future consumers choices.
 
 <!-- Small but precisely curated emotional inductions can be more impactful to consumer decisions than large scale manipulations. Changing consumer behavior is challenging and costly. Here I show how precisely controlling what is show to the consumer can yeild larger changes in consumer behavior with lower costs! -->
+
+## [Bayesian Statistics](bayes/bayes.md)
+
+This [project](bayes/bayes.md) demonstrates my ability to use and easily explain Bayesian Statistics.
+Specifically, these plots show how the posterior (the final prediction of the model) changes as you adjust the prior (the background knowledge of the model).
+
+As show with the image on the left, if you don't give your model the proper prior (background knowledge of what is likely to happen) it can be overconfident which can lead to inaccurate predictions and lost of revenue.
+In contrast, the plot on the right has a good prior making it more robust to random fluctuations and produces much more stable results yielding more accurate forecasts.
+
+<img src="bayes/output_3_1.png" alt="drawing" style="width: 25vw;"/>
+<img src="bayes/output_6_1.png" alt="drawing" style="width: 25vw;"/>
 
 ## Interactive Data and Analysis Demonstrations
 
