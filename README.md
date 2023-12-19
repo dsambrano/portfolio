@@ -31,6 +31,10 @@ In contrast, the plot on the right has a good prior making it more robust to ran
 
 A behavior modification A/B test designed to evaluated consumer decisions based on their emotional state.
 
+![](assets/portfolio_selective_arousal_plot_sig.png)
+<!-- <img src="assets/portfolio_selective_arousal_plot_sig.png" alt="drawing" style="width: 40vw;"/> -->
+
+
 <!-- ![](bayes/output_3_1.png) This should be that manipulation graph from ambig images and just change titles etc and highlight  -->
 
 ⭐**Executive Summary**📈: Changing consumer behavior is challenging and costly. 
@@ -45,6 +49,8 @@ This analyses for these results were presented in front a large mixed audience a
 The first plot shows that custom ML model used to forecast consumer decisions.
 Specifically, we highlight how we precisely modeled the specific features use to make financial decisions on a per user basis!
 
+![](assets/portfolio_psychometric.png)
+
 
 <!-- ![](bayes/output_3_1.png) This should be the graph of sigmoids (Ideally one where there are say 5 different sigmoids from the peeps) -->
 <!-- For now including the psychometrics, but in reality I should probably grab anything that I have made and select later -->
@@ -54,6 +60,7 @@ Specifically, we highlight how we precisely modeled the specific features use to
 Below is another plot where we highlight the relationship between the bodily characteristics and consumer choices.
 Specifically, we evaluated pupil size (as well as skin sweat, blood pressure, hormone levels and heart rate; not shown)
 
+![](assets/pupil.png)
 <!-- ![](bayes/output_3_1.png) Should be able to graph one of the ones looking at pupil dilation and just show it here -->
 
 <!-- I can add my pupil one here but in the mean time, adding one from Hao's paper: https://pubmed.ncbi.nlm.nih.gov/37382476/ -->
