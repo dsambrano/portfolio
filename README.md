@@ -1,9 +1,9 @@
 # Deshawn Sambrano's Portfolio
 
+Hi, I am Deshawn Sambrano. I am a Data Scientist/Applied Scientist with a passion for solving problems with data.
+I received my PhD from Harvard where I studied Economics, Psychology, and Neuroscience. 
+My dissertation focused on consumer choices and designing A/B tests to modify their decisions. 
 Here are a few different project that demonstrate my versatility as a Data Scientist, Applied Scientist, and Machine Learning Engineer.
-
-where I studied Economics, Psychology, and Neuroscience.
-My research focused on consumer choices and A/B testing to modify their decisions.
 
 <!-- ${toc} -->
 
