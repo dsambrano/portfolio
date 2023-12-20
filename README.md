@@ -9,12 +9,6 @@ Here are a few different project that demonstrate my versatility as a Data Scien
 
 <!-- __TOC__ -->
 
-Dev Plan:
-
-- Here is how I would change this: The titles (sexier) specifically overarching saying these are how I have specifically impacted several different fields to with my research expertise.
-Each title becomes like Consumer Modifications, Forecasting consumer Decision Making etc.
-- Fix side by side images on Bayes see official [page](https://github.com/dsambrano/portfolio?tab=readme-ov-file#deshawn-sambranos-portfolio)
-
 
 ## [Emotion Influences Decision Making](bayes/bayes.md)
 <!-- ![](bayes/output_3_1.png) -->
