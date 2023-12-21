@@ -11,6 +11,14 @@ Here are a few different project that demonstrate my versatility as a Data Scien
 
 
 ## [Emotion Influences Decision Making](bayes/bayes.md)
+## Table of Contents
+
+- [Behavior Modification][behvaior-mod]
+- [Forecasting Consumer Choices][prediction]
+- [Biostatistics][health]
+- [Bayesian Statistics][bayes]
+- [Interactive Demos][demos]
+
 <!-- ![](bayes/output_3_1.png) -->
 
 A behavior modification A/B test designed to evaluated consumer decisions based on their emotional state.
@@ -71,3 +79,11 @@ Below are a couple on live data visualization and analysis demonstrations. You a
 
 - [T-TEST](https://dsambrano.shinyapps.io/T-Test/)
 - [ANOVA](https://dsambrano.shinyapps.io/ANOVA/)
+
+
+
+[behvaior-mod]: #behavior-modification-
+[prediction]: #forecating-consumer-decisions
+[health]: #pupil-dilation-predicting-consumer-choice
+[bayes]: #bayesian-statistics
+[demos]: #interactive-data-analysis-demonstrations
