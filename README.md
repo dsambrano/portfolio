@@ -10,7 +10,6 @@ Here are a few different project that demonstrate my versatility as a Data Scien
 <!-- __TOC__ -->
 
 
-## [Emotion Influences Decision Making](bayes/bayes.md)
 ## Table of Contents
 
 - [Behavior Modification][behvaior-mod]
@@ -19,6 +18,7 @@ Here are a few different project that demonstrate my versatility as a Data Scien
 - [Bayesian Statistics][bayes]
 - [Interactive Demos][demos]
 
+## Behavior Modification: Influencing Consumer Choice
 <!-- ![](bayes/output_3_1.png) -->
 
 A behavior modification A/B test designed to evaluated consumer decisions based on their emotional state.
@@ -34,7 +34,7 @@ Here, I show how precisely controlling what is show to the consumer can yeild la
 Small but precisely curated emotional inductions can be more impactful to consumer decisions than large scale manipulations.
 
 <!-- ## [Forecasting Risky Decision Making](bayes/bayes.md) -->
-## Forecasting Risky Decision Making
+## Forecasting Consumer Decisions
 
 For this project, I created a custom machine learning model to forecast risky decision making for lotteries.
 This analyses for these results were presented in front a large mixed audience and published [here]().
@@ -73,9 +73,10 @@ In contrast, the plot on the right has a good prior making it more robust to ran
 <img src="bayes/output_3_1.png" alt="drawing" style="width: 25vw;"/>
 <img src="bayes/output_6_1.png" alt="drawing" style="width: 25vw;"/>
 
-## Interactive Data and Analysis Demonstrations
 
 Below are a couple on live data visualization and analysis demonstrations. You are given some simulated data and as you adjust the different parameters of the dataset you can see how it changes that data visually as well as from a statistical standpoint. These demonstrations were used to provide some statiscal intuitions for Intro Statiscs Students for a Course I taught at Harvard University.
+## Interactive Data Analysis Demonstrations
+
 
 - [T-TEST](https://dsambrano.shinyapps.io/T-Test/)
 - [ANOVA](https://dsambrano.shinyapps.io/ANOVA/)
