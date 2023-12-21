@@ -74,9 +74,11 @@ In contrast, the plot on the right has a good prior making it more robust to ran
 <img src="bayes/output_6_1.png" alt="drawing" style="width: 25vw;"/>
 
 
-Below are a couple on live data visualization and analysis demonstrations. You are given some simulated data and as you adjust the different parameters of the dataset you can see how it changes that data visually as well as from a statistical standpoint. These demonstrations were used to provide some statiscal intuitions for Intro Statiscs Students for a Course I taught at Harvard University.
 ## Interactive Data Analysis Demonstrations
 
+Below are a couple on live data visualization and analysis demonstrations.
+You are given some simulated data and as you adjust the different parameters of the dataset you can see how it changes that data visually as well as from a statistical standpoint.
+These demonstrations were used to provide some statistical intuitions for Intro Statistics Student's for a Course I taught at Harvard University.
 
 - [T-TEST](https://dsambrano.shinyapps.io/T-Test/)
 - [ANOVA](https://dsambrano.shinyapps.io/ANOVA/)
