@@ -23,8 +23,10 @@ Here are a few different project that demonstrate my versatility as a Data Scien
 
 A behavior modification A/B test designed to evaluated consumer decisions based on their emotional state.
 
-![](assets/portfolio_selective_arousal_plot_sig.png)
-<!-- <img src="assets/portfolio_selective_arousal_plot_sig.png" alt="drawing" style="width: 40vw;"/> -->
+<!-- ![](assets/portfolio_selective_arousal_plot_sig.png) -->
+<p align="center">
+  <img src="assets/portfolio_selective_arousal_plot_sig.png" alt="drawing" style="max-width: 80%;"/>
+</p>
 
 
 <!-- ![](bayes/output_3_1.png) This should be that manipulation graph from ambig images and just change titles etc and highlight  -->
@@ -52,7 +54,9 @@ Specifically, we highlight how we precisely modeled the specific features use to
 Below is another plot where we highlight the relationship between the bodily characteristics and consumer choices.
 Specifically, we evaluated pupil size (as well as skin sweat, blood pressure, hormone levels and heart rate; not shown)
 
-![](assets/pupil.png)
+<p align="center">
+  <img src="assets/pupil.png" alt="drawing" style="max-width: 80%;"/>
+</p>
 <!-- ![](bayes/output_3_1.png) Should be able to graph one of the ones looking at pupil dilation and just show it here -->
 
 <!-- I can add my pupil one here but in the mean time, adding one from Hao's paper: https://pubmed.ncbi.nlm.nih.gov/37382476/ -->
@@ -70,9 +74,11 @@ Specifically, these plots show how the posterior (the final prediction of the mo
 As show with the image on the left, if you don't give your model the proper prior (background knowledge of what is likely to happen) it can be overconfident which can lead to inaccurate predictions and lost of revenue.
 In contrast, the plot on the right has a good prior making it more robust to random fluctuations and produces much more stable results yielding more accurate forecasts.
 
-<img src="bayes/output_3_1.png" alt="drawing" style="width: 25vw;"/>
-<img src="bayes/output_6_1.png" alt="drawing" style="width: 25vw;"/>
 
+<p align="center">
+  <img src="bayes/output_3_1.png" alt="drawing" style="max-width: 40%;"/>
+  <img src="bayes/output_6_1.png" alt="drawing" style="max-width: 40%;"/>
+</p>
 
 ## Interactive Data Analysis Demonstrations
 
