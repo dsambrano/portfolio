@@ -12,11 +12,21 @@ Here are a few different project that demonstrate my versatility as a Data Scien
 
 ## Table of Contents
 
+- [Activiation/Call of Duty: Prosocial Behavior Modification][cod] 
 - [Behavior Modification][behvaior-mod]
 - [Forecasting Consumer Choices][prediction]
 - [Biostatistics][health]
 - [Bayesian Statistics][bayes]
 - [Interactive Demos][demos]
+
+## Activiation/Call of Duty: Prosocial Behavior Modification
+
+⭐ Executive Summary📈: Collaborating with Activision on their renowned game Call of Duty, this project targets the reduction of toxic behavior and the promotion of prosocial interactions among players. Leveraging a combination of traditional analytical methods and cutting-edge machine learning models, we have developed and fine-tuned strategies to enhance the gaming environment. The core of this initiative involves designing and implementing A/B tests, set to roll out globally in the upcoming weeks. These tests are meticulously crafted to assess the effectiveness of various interventions in real-time, aiming to foster a more positive and engaging community within the game. This initiative not only improves the player experience but also sets a precedent for using advanced data-driven techniques to cultivate healthier online communities in the gaming industry.
+
+<p align="center">
+  <img src="assets/moderation_delay3.png" alt="CoD" style="max-width: 80%;"/>
+</p>
+
 
 ## Behavior Modification: Influencing Consumer Choice
 <!-- ![](bayes/output_3_1.png) -->
@@ -103,3 +113,4 @@ These demonstrations were used to provide some statistical intuitions for Intro 
 [health]: #pupil-dilation-predicting-consumer-choice
 [bayes]: #bayesian-statistics
 [demos]: #interactive-data-analysis-demonstrations
+[cod]: #activiationcall-of-duty-prosocial-behavior-modification
