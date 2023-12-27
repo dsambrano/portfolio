@@ -40,7 +40,7 @@ A behavior modification A/B test designed to evaluated consumer decisions based 
 
 <!-- ![](assets/portfolio_selective_arousal_plot_sig.png) -->
 <p align="center">
-  <img src="assets/portfolio_selective_arousal_plot_sig.png" alt="drawing" style="max-width: 80%;"/>
+  <img src="assets/portfolio_selective_arousal_plot_sig.png" alt="A/B Tests" style="max-width: 80%;"/>
 </p>
 
 
@@ -73,7 +73,7 @@ Below is another plot where we highlighted the relationship between the bodily c
 Specifically, we evaluated eyetracking measures (as well as skin sweat, blood pressure, hormone levels and heart rate; not shown)
 
 <p align="center">
-  <img src="assets/pupil.png" alt="drawing" style="max-width: 80%;"/>
+  <img src="assets/pupil.png" alt="Eyetracking" style="max-width: 80%;"/>
 </p>
 <!-- ![](bayes/output_3_1.png) Should be able to graph one of the ones looking at pupil dilation and just show it here -->
 
@@ -93,8 +93,8 @@ In contrast, the plot on the right has a good prior making it more robust to ran
 
 
 <p align="center">
-  <img src="bayes/output_3_1.png" alt="drawing" style="max-width: 40%;"/>
-  <img src="bayes/output_6_1.png" alt="drawing" style="max-width: 40%;"/>
+  <img src="bayes/output_3_1.png" alt="Bayes no Prior" style="max-width: 40%;"/>
+  <img src="bayes/output_6_1.png" alt="Bayes with Prior" style="max-width: 40%;"/>
 </p>
 
 ## Interactive Data Analysis Demonstrations
