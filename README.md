@@ -21,6 +21,11 @@ Here are a few different project that demonstrate my versatility as a Data Scien
 ## Behavior Modification: Influencing Consumer Choice
 <!-- ![](bayes/output_3_1.png) -->
 
+⭐**Executive Summary**📈: Changing consumer behavior is challenging and costly. 
+Here, I show how precisely controlling what is show to the consumer can yield larger changes in consumer behavior with lower costs!
+Small but precisely curated emotional inductions can be more impactful to consumer decisions than large scale manipulations.
+
+
 A behavior modification A/B test designed to evaluated consumer decisions based on their emotional state.
 
 <!-- ![](assets/portfolio_selective_arousal_plot_sig.png) -->
@@ -31,12 +36,11 @@ A behavior modification A/B test designed to evaluated consumer decisions based 
 
 <!-- ![](bayes/output_3_1.png) This should be that manipulation graph from ambig images and just change titles etc and highlight  -->
 
-⭐**Executive Summary**📈: Changing consumer behavior is challenging and costly. 
-Here, I show how precisely controlling what is show to the consumer can yeild larger changes in consumer behavior with lower costs!
-Small but precisely curated emotional inductions can be more impactful to consumer decisions than large scale manipulations.
 
 <!-- ## [Forecasting Risky Decision Making](bayes/bayes.md) -->
 ## Forecasting Consumer Decisions
+
+⭐ Executive Summary📈: Understanding and predicting consumer choices is pivotal for strategic business decision-making. This project presents a comprehensive model that accurately predicts consumer behavior by analyzing various market trends and psychological factors. By integrating advanced analytics with consumer psychology, this model offers a powerful tool for businesses to forecast consumer preferences, optimize product offerings, and enhance marketing strategies, ultimately leading to more informed decisions and increased profitability. This model stands as a breakthrough in the realm of consumer choice modeling, providing a robust framework for anticipating market dynamics and tailoring business approaches to meet evolving consumer needs.
 
 For this project, I created a custom machine learning model to forecast risky decision making for lotteries.
 This analyses for these results were presented in front a large mixed audience and published [here]().
@@ -51,8 +55,12 @@ Specifically, we highlight how we precisely modeled the specific features use to
 
 ### Pupil Dilation Predicting Consumer Decisions
 
-Below is another plot where we highlight the relationship between the bodily characteristics and consumer choices.
-Specifically, we evaluated pupil size (as well as skin sweat, blood pressure, hormone levels and heart rate; not shown)
+
+⭐Executive Summary📈: Collecting eyetracking data and other physiological measures from consumers near the time of viewing ads can yield strong forecasts for future consumer choices. 
+
+
+Below is another plot where we highlighted the relationship between the bodily characteristics and consumer choices.
+Specifically, we evaluated eyetracking measures (as well as skin sweat, blood pressure, hormone levels and heart rate; not shown)
 
 <p align="center">
   <img src="assets/pupil.png" alt="drawing" style="max-width: 80%;"/>
@@ -62,7 +70,6 @@ Specifically, we evaluated pupil size (as well as skin sweat, blood pressure, ho
 <!-- I can add my pupil one here but in the mean time, adding one from Hao's paper: https://pubmed.ncbi.nlm.nih.gov/37382476/ -->
 <!-- Also I want to redo the cortisol measurements one to highlight the profile instead of the delta -->
 
-⭐**Executive Summary**📈: Collecting small, noninvasive physiological measures for consumers near the time of viewing ads can yeild strong forecasts for future consumers choices.
 
 <!-- Small but precisely curated emotional inductions can be more impactful to consumer decisions than large scale manipulations. Changing consumer behavior is challenging and costly. Here I show how precisely controlling what is show to the consumer can yeild larger changes in consumer behavior with lower costs! -->
 
