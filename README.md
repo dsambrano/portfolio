@@ -22,7 +22,11 @@ Here are a few different project that demonstrate my versatility as a Data Scien
 
 ## Activiation/Call of Duty: Prosocial Behavior Modification
 
-⭐ Executive Summary📈: Collaborating with Activision on their renowned game Call of Duty, this project targets the reduction of toxic behavior and the promotion of prosocial interactions among players. Leveraging a combination of traditional analytical methods and cutting-edge machine learning models, we have developed and fine-tuned strategies to enhance the gaming environment. The core of this initiative involves designing and implementing A/B tests, set to roll out globally in the upcoming weeks. These tests are meticulously crafted to assess the effectiveness of various interventions in real-time, aiming to foster a more positive and engaging community within the game. This initiative not only improves the player experience but also sets a precedent for using advanced data-driven techniques to cultivate healthier online communities in the gaming industry.
+⭐**Executive Summary**📈: Collaborating with Activision on their renowned game Call of Duty, this project targets the reduction of toxic behavior and the promotion of prosocial interactions among players.
+Leveraging a combination of traditional analytical methods and cutting-edge machine learning models, we have developed and fine-tuned strategies to enhance the gaming environment. 
+The core of this initiative involves designing and implementing A/B tests, set to roll out globally in the upcoming weeks. 
+These tests are meticulously crafted to assess the effectiveness of various interventions in real-time, aiming to foster a more positive and engaging community within the game. 
+This initiative not only improves the player experience but also sets a precedent for using advanced data-driven techniques to cultivate healthier online communities in the gaming industry.
 
 <p align="center">
   <img src="assets/moderation_delay3.png" alt="CoD" style="max-width: 80%;"/>
@@ -51,7 +55,10 @@ A behavior modification A/B test designed to evaluated consumer decisions based 
 <!-- ## [Forecasting Risky Decision Making](bayes/bayes.md) -->
 ## Forecasting Consumer Decisions
 
-⭐ Executive Summary📈: Understanding and predicting consumer choices is pivotal for strategic business decision-making. This project presents a comprehensive model that accurately predicts consumer behavior by analyzing various market trends and psychological factors. By integrating advanced analytics with consumer psychology, this model offers a powerful tool for businesses to forecast consumer preferences, optimize product offerings, and enhance marketing strategies, ultimately leading to more informed decisions and increased profitability. This model stands as a breakthrough in the realm of consumer choice modeling, providing a robust framework for anticipating market dynamics and tailoring business approaches to meet evolving consumer needs.
+⭐**Executive Summary**📈: Understanding and predicting consumer choices is pivotal for strategic business decision-making. 
+This project presents a comprehensive model that accurately predicts consumer behavior by analyzing various market trends and psychological factors. 
+By integrating advanced analytics with consumer psychology, this model offers a powerful tool for businesses to forecast consumer preferences, optimize product offerings, and enhance marketing strategies, ultimately leading to more informed decisions and increased profitability. 
+This model stands as a breakthrough in the realm of consumer choice modeling, providing a robust framework for anticipating market dynamics and tailoring business approaches to meet evolving consumer needs.
 
 For this project, I created a custom machine learning model to forecast risky decision making for lotteries.
 These analyses were presented in front a large mixed audience and published [here]().
@@ -67,7 +74,7 @@ Specifically, we highlight how we precisely modeled the specific features use to
 ### Pupil Dilation Predicting Consumer Decisions
 
 
-⭐Executive Summary📈: Collecting eyetracking data and other physiological measures from consumers near the time of viewing ads can yield strong forecasts for future consumer choices. 
+⭐**Executive Summary**📈: Collecting eyetracking data and other physiological measures from consumers near the time of viewing ads can yield strong forecasts for future consumer choices. 
 
 
 Below is another plot where we highlighted the relationship between the bodily characteristics and consumer choices.
