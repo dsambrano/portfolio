@@ -12,7 +12,8 @@ Here are a few different project that demonstrate my versatility as a Data Scien
 
 ## Table of Contents
 
-- [Activiation/Call of Duty: Prosocial Behavior Modification][cod] 
+<!-- : Prosocial Behavior Modification -->
+- [Activiation/Call of Duty][cod] 
 - [Behavior Modification][behvaior-mod]
 - [Forecasting Consumer Choices][prediction]
 - [Biostatistics][health]
