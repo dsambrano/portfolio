@@ -53,7 +53,7 @@ A behavior modification A/B test designed to evaluated consumer decisions based 
 ⭐ Executive Summary📈: Understanding and predicting consumer choices is pivotal for strategic business decision-making. This project presents a comprehensive model that accurately predicts consumer behavior by analyzing various market trends and psychological factors. By integrating advanced analytics with consumer psychology, this model offers a powerful tool for businesses to forecast consumer preferences, optimize product offerings, and enhance marketing strategies, ultimately leading to more informed decisions and increased profitability. This model stands as a breakthrough in the realm of consumer choice modeling, providing a robust framework for anticipating market dynamics and tailoring business approaches to meet evolving consumer needs.
 
 For this project, I created a custom machine learning model to forecast risky decision making for lotteries.
-This analyses for these results were presented in front a large mixed audience and published [here]().
+These analyses were presented in front a large mixed audience and published [here]().
 The first plot shows that custom ML model used to forecast consumer decisions.
 Specifically, we highlight how we precisely modeled the specific features use to make financial decisions on a per user basis!
 
