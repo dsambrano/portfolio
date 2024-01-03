@@ -14,6 +14,7 @@ Here are a few different project that demonstrate my versatility as a Data Scien
 
 <!-- : Prosocial Behavior Modification -->
 - [Activiation/Call of Duty][cod] 
+- [A/B Test Optimization][optim]
 - [Behavior Modification][behvaior-mod]
 - [Forecasting Consumer Choices][prediction]
 - [Biostatistics][health]
@@ -117,8 +118,9 @@ These demonstrations were used to provide some statistical intuitions for Intro 
 
 
 [behvaior-mod]: #behavior-modification-
+[optim]: #optimizing-a%2Fb-tests
 [prediction]: #forecating-consumer-decisions
 [health]: #pupil-dilation-predicting-consumer-choice
 [bayes]: #bayesian-statistics
 [demos]: #interactive-data-analysis-demonstrations
-[cod]: #activiationcall-of-duty-prosocial-behavior-modification
+[cod]: #activiation%2Fcall-of-duty%3A-prosocial-behavior-modification
