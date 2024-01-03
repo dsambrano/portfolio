@@ -132,8 +132,8 @@ These demonstrations were used to provide some statistical intuitions for Intro 
 
 [behvaior-mod]: #behavior-modification-influencing-consumer-choice
 [optim]: #optimizing-ab-tests
-[prediction]: #forecating-consumer-decisions
-[health]: #pupil-dilation-predicting-consumer-choice
+[prediction]: #forecasting-consumer-decisions
+[health]: #pupil-dilation-predicting-consumer-decisions
 [bayes]: #bayesian-statistics
 [demos]: #interactive-data-analysis-demonstrations
 [cod]: #activiationcall-of-duty-prosocial-behavior-modification
