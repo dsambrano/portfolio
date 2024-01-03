@@ -34,6 +34,19 @@ This initiative not only improves the player experience but also sets a preceden
 </p>
 
 
+## Optimizing A/B Tests
+
+⭐**Executive Summary**📈:  Running and evaluating the effectivness of A/B tests is costly and some users may not like the changes.
+Here, I designed a alternative design to evaluate new models with A/B test, which can achieve the same model accuracy in 3/4th the time or increase the model accuracy by more than a factor of 4 in the same amount of time. 
+By using my adaptive design, you can have more efficiently structured testing.
+
+
+
+<p align="center">
+  <img src="assets/bar_time_model_comparison_alpha.png" alt="Reduced Time" style="max-width: 40%;"/>
+  <img src="assets/bar_accuracy_model_comparison_alpha.png" alt="Improved Model Accuracy" style="max-width: 40%;"/>
+</p>
+
 ## Behavior Modification: Influencing Consumer Choice
 <!-- ![](bayes/output_3_1.png) -->
 
