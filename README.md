@@ -130,7 +130,7 @@ These demonstrations were used to provide some statistical intuitions for Intro 
 
 
 
-[behvaior-mod]: #behavior-modification-
+[behvaior-mod]: #behavior-modification-influencing-consumer-choice
 [optim]: #optimizing-ab-tests
 [prediction]: #forecating-consumer-decisions
 [health]: #pupil-dilation-predicting-consumer-choice
