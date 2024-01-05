@@ -3,7 +3,8 @@
 Hi, I am Deshawn Sambrano. I am a Data Scientist/Applied Scientist with a passion for solving problems with data.
 I received my PhD from Harvard where I studied Economics, Psychology, and Neuroscience. 
 My dissertation focused on consumer choices and designing A/B tests to modify their decisions. 
-Here are a few different project that demonstrate my versatility as a Data Scientist, Applied Scientist, and Machine Learning Engineer.
+Since 2022, I have been consulting for Activision on their Call of Duty Franchise designing machine learning models, and implementing A/B testing that went out globally to millions of users to modify in game behaviors.
+Here are a few different project that demonstrate my versatility as a Data Scientist, Applied Scientist, and Machine Learning Researcher.
 
 <!-- ${toc} -->
 
@@ -13,7 +14,7 @@ Here are a few different project that demonstrate my versatility as a Data Scien
 ## Table of Contents
 
 <!-- : Prosocial Behavior Modification -->
-- [Activiation/Call of Duty][cod] 
+- [Activision/Call of Duty][cod] 
 - [A/B Test Optimization][optim]
 - [Behavior Modification][behvaior-mod]
 - [Forecasting Consumer Choices][prediction]
@@ -21,7 +22,7 @@ Here are a few different project that demonstrate my versatility as a Data Scien
 - [Bayesian Statistics][bayes]
 - [Interactive Demos][demos]
 
-## Activiation/Call of Duty: Prosocial Behavior Modification
+## Activision/Call of Duty: Prosocial Behavior Modification
 
 ⭐**Executive Summary**📈: Collaborating with Activision on their renowned game Call of Duty, this project targets the reduction of toxic behavior and the promotion of prosocial interactions among players.
 Leveraging a combination of traditional analytical methods and cutting-edge machine learning models, we have developed and fine-tuned strategies to enhance the gaming environment. 
@@ -136,4 +137,4 @@ These demonstrations were used to provide some statistical intuitions for Intro 
 [health]: #pupil-dilation-predicting-consumer-decisions
 [bayes]: #bayesian-statistics
 [demos]: #interactive-data-analysis-demonstrations
-[cod]: #activiationcall-of-duty-prosocial-behavior-modification
+[cod]: #activisioncall-of-duty-prosocial-behavior-modification
